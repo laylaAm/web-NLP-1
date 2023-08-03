@@ -10,7 +10,7 @@
 # here is the database named as smart. consistence of 3 columns
 
 ```linux
-CREATE TABLE remote_control (
+CREATE TABLE smart (
     id INT PRIMARY KEY AUTO_INCREMENT,
     direction VARCHAR(10) NOT NULL,
     timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
