@@ -1,5 +1,11 @@
 # web-NLP-1
-# Coop in Smart Method building Control panel page connected to the database, including inserting data and retrieving.
+# To create a remote control system using HTML, PHP, and SQL, you'll need the following components:
+
+1. HTML: For creating the user interface.
+2. PHP: For handling server-side logic and interacting with the database.
+3. SQL: For storing and retrieving remote control instructions.
+
+Here's an example code that demonstrates a basic remote control system:.
 
 ![Capture](https://github.com/laylaAm/web-NLP-1/assets/139586277/0a94cbc5-0410-429f-8e15-0b8cce593fcd)
 
