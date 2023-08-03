@@ -7,6 +7,13 @@
 
 ![Capture1](https://github.com/laylaAm/web-NLP-1/assets/139586277/0141bcc6-01e8-4b40-a6f6-6795537e5cc6)
 
-# here is the database named as test2. consistence of two columns, dir for storing the entered value and created_at for retrieving the latest entered value for the view.php page.
+# here is the database named as smart. consistence of 3 columns
+
+```linux
+CREATE TABLE remote_control (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    direction VARCHAR(10) NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
 
 ![Capture2](https://github.com/laylaAm/web-NLP-1/assets/139586277/7bc20792-d220-40fe-ad4d-dbdf208f5601)
